@@ -17,7 +17,7 @@ pip install selenium
   1. Clone este repositório em sua máquina local:
 
   ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  git clone https://github.com/Caio-Rodrigues-V/Selenium-exercicios
   ```
 
   2. Abra o arquivo main.py em um editor de texto ou IDE de sua escolha.
